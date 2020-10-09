@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-fire",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An eslint extension",
   "main": "index.js",
   "scripts": {

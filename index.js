@@ -4,6 +4,9 @@ module.exports = {
         node: true,
         es6: true
     },
+    globals: {
+        MyGlobal: true
+    },
     parserOptions: {
         ecmaVersion: 2019
     },
